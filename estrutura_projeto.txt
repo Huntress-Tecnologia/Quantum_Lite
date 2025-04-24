@@ -1,0 +1,4 @@
+qrng-streamlit-app/
+├── app.py                # Código principal Streamlit
+├── requirements.txt      # Lista de bibliotecas Python usadas
+└── README.md             # (opcional) Descrição do projeto
